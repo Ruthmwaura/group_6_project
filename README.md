@@ -27,7 +27,8 @@ To successfully conduct this project the following steps were taken in order:
 Adult Mortality, HIV/AIDS and income composition of resources were found to have the greatest effect on life expectancy.
 
 
-**COLLABORATORS
+  COLLABORATORS
+  
 1. Brian Gakungi
 2. Deborah Masibo
 3. mwendar
